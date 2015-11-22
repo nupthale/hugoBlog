@@ -19,7 +19,7 @@ build:
     # Steps make up the actions in your pipeline
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
-  steps:
+    steps:
         - arjen/hugo-build@1.6.1
 deploy:
     steps:
