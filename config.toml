@@ -1,6 +1,4 @@
-baseurl = "http://nupthale.github.io/hugoblog/"
+baseurl = "http://nupthale.github.io"
 languageCode = "en-us"
 title = "nupthale"
-theme = "hyde-master"
-[params]
-    themeColor = "theme-base-09"
+theme = "simple-a-master"
