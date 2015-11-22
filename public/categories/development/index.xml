@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on nupthale</title>
-    <link>http://localhost:1313/categories/development/</link>
+    <link>http://localhost:1313/hugoblog/categories/development/</link>
     <description>Recent content in Development on nupthale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2015 16:15:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugoblog/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>two</title>
-      <link>http://localhost:1313/post/two/</link>
+      <link>http://localhost:1313/hugoblog/post/two/</link>
       <pubDate>Sun, 22 Nov 2015 16:15:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/two/</guid>
+      <guid>http://localhost:1313/hugoblog/post/two/</guid>
       <description>
 
 &lt;h1 id=&#34;heading:e6a0bff01fd722bafeff865963008e1e&#34;&gt;heading&lt;/h1&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>one</title>
-      <link>http://localhost:1313/post/one/</link>
+      <link>http://localhost:1313/hugoblog/post/one/</link>
       <pubDate>Sun, 22 Nov 2015 16:14:53 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/one/</guid>
+      <guid>http://localhost:1313/hugoblog/post/one/</guid>
       <description>
 
 &lt;h1 id=&#34;heading:f066022a5cd7e2eba28340b66795b149&#34;&gt;heading&lt;/h1&gt;
