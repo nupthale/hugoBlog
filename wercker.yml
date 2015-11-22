@@ -20,7 +20,7 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
     steps:
-        - arjen/hugo-build@1.6.1
+        - arjen/hugo-build@1.6.1:
             theme:simple-a-master
 deploy:
     steps:
