@@ -1,7 +1,6 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "网易考拉"
-theme="hyde-master"
-
+title = "nupthale"
+theme = "hyde-master"
 [params]
     themeColor = "theme-base-09"
