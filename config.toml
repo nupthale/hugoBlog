@@ -1,4 +1,4 @@
-baseurl = "http://nupthale.github.io"
+baseurl = "http://nupthale.github.io/hugoblog/"
 languageCode = "en-us"
 title = "nupthale"
 theme = "simple-a-master"
