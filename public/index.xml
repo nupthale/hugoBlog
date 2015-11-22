@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>网易考拉</title>
+    <title>nupthale</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 网易考拉</description>
+    <description>Recent content on nupthale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2015 16:15:00 +0800</lastBuildDate>
@@ -19,7 +19,7 @@
 
 &lt;h1 id=&#34;heading:e6a0bff01fd722bafeff865963008e1e&#34;&gt;heading&lt;/h1&gt;
 
-&lt;p&gt;this is text2&lt;/p&gt;
+&lt;p&gt;this is text23&lt;/p&gt;
 </description>
     </item>
     
